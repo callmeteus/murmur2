@@ -1,0 +1,25 @@
+{
+  "name": "murmur2",
+  "version": "1.0.0",
+  "description": "Zero dependency murmur2 buffer hash algorithm implementation in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theprometeus/murmur2.git"
+  },
+  "keywords": [
+    "murmur2",
+    "hash",
+    "fast",
+    "no-whitespaces"
+  ],
+  "author": "Matheus Giovani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theprometeus/murmur2/issues"
+  },
+  "homepage": "https://github.com/theprometeus/murmur2#readme"
+}
