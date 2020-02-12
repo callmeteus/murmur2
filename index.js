@@ -1,6 +1,6 @@
 /**
  * Zero dependency murmur2 buffer hash algorithm implementation in JavaScript
- * Originaly created by Austin Appleby
+ * Originally created by Austin Appleby
  * Inspired by flagUpDown's code and CAV2's whitespace remotion code
  * @see https://github.com/flagUpDown/murmurhash-node
  * @author Matheus Giovani (https://github.com/theprometeus)
