@@ -68,7 +68,7 @@ function removeBufferWhitespaces(buff) {
  * @return {UInt}                      Unsigned hash int
  */
 function murmurHash(key, seed = 0, removeWhitespaces = false) {
-	// Check if we need to remove whitespaces frmo the buffer
+	// Check if we need to remove whitespaces from the buffer
 	if (removeWhitespaces) {
 		// Get treated buffer
 		key 	= removeBufferWhitespaces(key);
